@@ -8,5 +8,6 @@ namespace git1.models
 {
     internal class user
     {
+        public int Username { get; set; }
     }
 }
